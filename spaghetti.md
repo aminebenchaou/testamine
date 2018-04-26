@@ -2,7 +2,7 @@
 
 # Spaghetti Bolognese
 
-## Ingredients
+## Ingredients 2
 
 - 1 tbsp olive oil
 - 4 rashers smoked streaky bacon, finely chopped
